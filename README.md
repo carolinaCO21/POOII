@@ -15,6 +15,32 @@ Este repositorio es ideal tanto para **principiantes** como para aquellos que de
 - Entender los conceptos de **polimorfismo** y **herencia** para crear soluciones más flexibles y reutilizables.
 - Resolver problemas prácticos mediante la aplicación de los conceptos de la POO.
 
+## Requisitos
+- Java Development Kit (JDK) 8 o superior ➜ Permite compilar/ejecutar. 🔧
+
+- IDE o editor de código (opcional pero recomendado) Facilita el proceso  🛠️
+
+- Conocimientos básicos de sintaxis en Java.
+
+## 🛠️ Cómo Instalarlo  
+1. **Clona el repositorio**:  
+   git clone https://github.com/carolinaCO21/POOI.git
+
+2. Abre el proyecto en tu IDE favorito (Eclipse, IntelliJ, VSCode, etc.).
+
+3. Ejecuta los archivos .java directamente desde el IDE o compílalos desde la terminal
+
+## Como usarlo
+Abre el proyecto en tu IDE favorito (Eclipse, IntelliJ, VSCode, etc.).
+
+Ejecuta los archivos .java directamente desde el IDE o compílalos desde la terminal:
+
+javac NombreArchivo.java  # Compilar  
+java NombreArchivo        # Ejecutar  
+
+## 
+Cada clase implementa funcionalidades prácticas que permiten explorar conceptos fundamentales de Java.
+
 Este repositorio no solo proporciona ejemplos básicos de clases, sino también muestra cómo estas clases interactúan y cómo se pueden utilizar para construir programas funcionales y bien organizados.
 
 ![Texto alternativo](https://www.manualweb.net/img/logos/java.png)
