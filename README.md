@@ -24,7 +24,7 @@ Este repositorio es ideal tanto para **principiantes** como para aquellos que de
 
 ## 🛠️ Cómo Instalarlo  
 1. **Clona el repositorio**:  
-   git clone https://github.com/carolinaCO21/POOI.git
+   git clone https://github.com/carolinaCO21/POOII.git
 
 2. Abre el proyecto en tu IDE favorito (Eclipse, IntelliJ, VSCode, etc.).
 
