@@ -17,5 +17,9 @@ Este repositorio es ideal tanto para **principiantes** como para aquellos que de
 
 Este repositorio no solo proporciona ejemplos básicos de clases, sino también muestra cómo estas clases interactúan y cómo se pueden utilizar para construir programas funcionales y bien organizados.
 
+![Texto alternativo](https://www.manualweb.net/img/logos/java.png)
+
+Enlaces complementarios
+[Conceptos de programación orientada a objetos en Java](https://codegym.cc/es/groups/posts/es.76.conceptos-de-programacion-orientada-a-objetos-en-java)
 
 
